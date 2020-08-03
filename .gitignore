@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__
+misc/
+old/
+output/
+output_*
+env/
+collate_cdrg_geojson.py
+*.txt
+*.xml
+*.json
